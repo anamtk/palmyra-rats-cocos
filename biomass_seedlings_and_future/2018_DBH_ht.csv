@@ -1,0 +1,49 @@
+Island,Date,Start,End,Species,Measurer,Assistant,Meas. Height_m,CIRC?,CIRC(cm),Diam_cm,Distance to Tree_m,Angle,Tree Top Visible? (Y/N),tree_height_m
+Eastern,9/4/18,15:17,15:20,PG,Ronny  Young,Jessica Haasch,1.7,1.35,135,42.97183463,6.3,41,Y,7.176506448
+Eastern,9/4/18,15:25,15:28,PG,Ronny  Young,Jessica Haasch,1.7,6.65,665,211.6760743,18.2,61,Y,34.53366915
+Eastern,9/4/18,15:29,15:31,PG,Ronny  Young,Jessica Haasch,1.7,1.65,165,52.52113122,7.9,65,Y,18.64160467
+Eastern,9/4/18,15:32,15:34,PG,Ronny  Young,Jessica Haasch,1.7,0.33,33,10.50422624,5.9,43,Y,7.201839008
+Eastern,9/4/18,15:34,15:37,PG,Ronny  Young,Jessica Haasch,1.7,4.95,495,157.5633937,12.05,64,Y,26.40616129
+Eastern,9/4/18,15:37,15:39,PG,Ronny  Young,Jessica Haasch,1.7,0.95,95,30.23943919,9.91,50,Y,13.5102781
+Eastern,9/4/18,15:40,15:43,PG,Ronny  Young,Jessica Haasch,1.7,1.45,145,46.1549335,11.51,63,Y,24.28964692
+Eastern,9/4/18,15:43,15:45,PG,Ronny  Young,Jessica Haasch,1.7,2.3,230,73.21127382,11.9,64,Y,26.09861571
+Eastern,9/4/18,15:46,15:48,PG,Ronny  Young,Jessica Haasch,1.7,0.7,70,22.28169203,10.8,34,Y,8.984691982
+Eastern,9/4/18,15:48,15:51,PG,Ronny  Young,Jessica Haasch,1.7,4.42,442,140.6929697,9.5,56,Y,15.7843292
+Eastern,9/4/18,15:55,15:56,PT,Ronny  Young,Jessica Haasch,1.7,0.85,85,27.05634033,12.68,40,Y,12.33978332
+Eastern,9/4/18,15:57,15:59,PT,Ronny  Young,Jessica Haasch,1.7,0.55,55,17.50704374,5.72,36,Y,5.85582326
+Eastern,9/4/18,15:59,16:01,PT,Ronny  Young,Jessica Haasch,1.7,0.61,61,19.41690306,6.42,60,Y,12.81976618
+Eastern,9/4/18,16:01,16:03,PT,Ronny  Young,Jessica Haasch,1.7,0.8,80,25.46479089,12,61,Y,23.34857306
+Eastern,9/4/18,16:04,16:05,PT,Ronny  Young,Jessica Haasch,1.7,0.61,61,19.41690306,10.9,33,Y,8.778542766
+Eastern,9/4/18,16:06,16:08,PT,Ronny  Young,Jessica Haasch,1.7,0.5,50,15.91549431,6.68,35,Y,6.377386355
+Eastern,9/4/18,16:08,16:09,PT,Ronny  Young,Jessica Haasch,1.7,0.67,67,21.32676237,6.5,66,Y,16.29923903
+Eastern,9/4/18,16:10,16:12,PT,Ronny  Young,Jessica Haasch,1.7,0.6,60,19.09859317,6.92,69,Y,19.72721633
+Eastern,9/4/18,16:12,16:13,PT,Ronny  Young,Jessica Haasch,1.7,0.55,55,17.50704374,4.91,23,Y,3.784171348
+Eastern,9/4/18,16:14,16:17,PT,Ronny  Young,Jessica Haasch,1.7,0.61,61,19.41690306,7.24,54,Y,11.6650051
+Cooper,9/17/18,11:47,11:49,CN,Ronny  Young,Jessica Haasch,1.7,1.11,111,35.33239737,8.85,52,Y,13.02748344
+Cooper,9/17/18,11:49,11:51,CN,Ronny  Young,Jessica Haasch,1.7,1.05,105,33.42253805,8.67,58,Y,15.57490037
+Cooper,9/17/18,11:51,11:53,CN,Ronny  Young,Jessica Haasch,1.7,0.91,91,28.96619964,8.5,53,Y,12.97988098
+Cooper,9/18/18,16:05,16:07,CN,Ronny  Young,Jessica Haasch,1.7,1.19,119,37.87887646,11.55,47,Y,14.0858586
+Cooper,9/18/18,16:19,16:20,CN,Ronny  Young,Jessica Haasch,1.7,0.92,92,29.28450953,10.2,60,Y,19.36691824
+Cooper,9/18/18,16:20,16:21,CN,Ronny  Young,Jessica Haasch,1.7,0.89,89,28.32957987,9.33,56,Y,15.53229384
+Cooper,9/18/18,16:21,16:22,CN,Ronny  Young,Jessica Haasch,1.7,1.16,116,36.9239468,7.4,55,Y,12.26829525
+Cooper,9/18/18,16:22,16:23,CN,Ronny  Young,Jessica Haasch,1.7,1.11,111,35.33239737,8.25,56,Y,13.93112799
+Cooper,9/18/18,16:23,16:24,CN,Ronny  Young,Jessica Haasch,1.7,0.86,86,27.37465021,6.67,45,Y,8.37
+Cooper,9/18/18,16:24,16:25,CN,Ronny  Young,Jessica Haasch,1.7,1.19,119,37.87887646,9.57,60,Y,18.27572623
+Cooper,9/18/18,16:11,16:12,TA,Ronny  Young,Jessica Haasch,1.7,0.31,31,9.867606472,4.28,31,Y,4.271683449
+Cooper,9/18/18,16:12,16:14,TA,Ronny  Young,Jessica Haasch,1.7,0.47,47,14.96056465,4.65,42,Y,5.886878806
+Cooper,9/18/18,16:25,16:26,TA,Ronny  Young,Jessica Haasch,1.7,0.61,61,19.41690306,4.76,33,Y,4.791180144
+Cooper,9/18/18,16:26,16:27,TA,Ronny  Young,Jessica Haasch,1.7,0.3,30,9.549296586,3.14,41,Y,4.429560357
+Cooper,9/18/18,16:29,16:30,TA,Ronny  Young,Jessica Haasch,1.7,0.4,40,12.73239545,2.72,40,Y,3.982350997
+Cooper,9/18/18,16:30,16:31,TA,Ronny  Young,Jessica Haasch,1.7,0.4,40,12.73239545,3.37,63,Y,8.313997404
+Cooper,9/18/18,16:31,16:32,TA,Ronny  Young,Jessica Haasch,1.7,0.4,40,12.73239545,4.8,60,Y,10.01384388
+Cooper,9/18/18,16:35,16:36,TA,Ronny  Young,Jessica Haasch,1.7,0.21,21,6.68450761,3.91,28,Y,3.778983878
+Cooper,9/18/18,16:43,16:44,TA,Ronny  Young,Jessica Haasch,1.7,0.59,59,18.78028328,8.17,23,Y,5.167959248
+Cooper,9/18/18,16:44,16:45,TA,Ronny  Young,Jessica Haasch,1.7,0.98,98,31.19436885,8.29,38,Y,8.176857844
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,5.4,NA,NA,Y,3
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,5,NA,NA,Y,4
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,2.9,NA,NA,Y,1
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,6.4,NA,NA,Y,5
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,2.9,NA,NA,Y,2
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,3.5,NA,NA,Y,2.25
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,3.1,NA,NA,Y,1.5
+Sand,8/18/17,,,PG,Ana Miller-ter Kuile,Carina Motta,NA,NA,NA,5,NA,NA,Y,2

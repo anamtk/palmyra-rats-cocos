@@ -1,0 +1,45 @@
+Plot,Forest Type,Rats,Year,Total Seedlings in Plot,Seed.and.Sap,New Seedling Num,Mature Nuts,seed_seedling_survival
+Eastern,Mixed,pre,2007,76,,N/A,67.41180693,
+Holei 1,Mono,pre,2007,15,,N/A,1.5,
+Kaula,Mono,pre,2007,0,,N/A,13.46619548,
+Papala,Mono,pre,2007,52,,N/A,23,
+Paradise,Mixed,pre,2007,13,,n/A,3,
+Sand,Mixed,pre,2007,3,,N/A,0.5,
+Eastern,Mixed,pre,2008,43,,27,67.41180693,0.400523309
+Holei 1,Mono,pre,2008,13,,0,1.5,0
+Kaula,Mono,pre,2008,0,,0,13.46619548,0
+Papala,Mono,pre,2008,65,,22,23,0.956521739
+Paradise,Mixed,pre,2008,11,,1,3,0.333333333
+Sand,Mixed,pre,2008,1,,0,0.5,0
+Eastern,Mixed,pre,2009,27,,2,67.41180693,0.029668393
+Kaula,Mono,pre,2009,5,,3,13.46619548,0.222780072
+Paradise,Mixed,pre,2009,20,,2,3,0.666666667
+Eastern,Mixed,pre,2010,40,,32,67.41180693,0.474694293
+Holei 1,Mono,pre,2010,15,,3,1.5,
+Papala,Mono,pre,2010,88,,24,23,
+Paradise,Mixed,pre,2010,17,,6,3,
+Sand,Mixed,pre,2010,1,,1,0.5,
+Eastern,Mixed,post,2014,89,,N/A,,
+Holei 1,Mono,post,2014,710,,N/A,,
+Kaula,Mono,post,2014,1060,,N/A,,
+Papala,Mono,post,2014,655,,N/A,,
+Paradise,Mixed,post,2014,390,,N/A,,
+Sand,Mixed,post,2014,49,,N/A,,
+Eastern,Mixed,post,2015,98,,n/A,,
+Holei 1,Mono,post,2015,577,,N/A,,
+Kaula,Mono,post,2015,792,,N/A,,
+Papala,Mono,post,2015,624,,N/A,,
+Paradise,Mixed,post,2015,407,,N/A,,
+Sand,Mixed,post,2015,110,,N/A,,
+Eastern,Mixed,post,2016,148,135,68,92,
+Holei 1,Mono,post,2016,621,666,243,210,
+Kaula,Mono,post,2016,760,831,310,293,
+Papala,Mono,post,2016,755,797,321,347,
+Paradise,Mixed,post,2016,431,461,238,278,
+Sand,Mixed,post,2016,101,109,71,86,
+Eastern,Mixed,post,2017,107,,33,6,0.358695652
+Holei 1,Mono,post,2017,586,,55,58,0.261904762
+Kaula,Mono,post,2017,875,,115,85,0.392491468
+Papala,Mono,post,2017,616,,71,100,0.204610951
+Paradise,Mixed,post,2017,414,,78,34,0.28057554
+Sand,Mixed,post,2017,N/A,,67,38,0.779069767

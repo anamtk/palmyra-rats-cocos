@@ -1,0 +1,39 @@
+Plot,Type,Erad,Year,Total Seedlings,New Seedlings,Prev_seedlings_alive,Survival_Rate,Mortality_Rate,Prev_year_total,Prev_Year_Dead
+Eastern,Mixed,pre,2007,76,,N/A,,,,
+Holei 1,Mono,pre,2007,15,,N/A,,,,
+Kaula,Mono,pre,2007,0,,N/A,,,,
+Papala,Mono,pre,2007,52,,N/A,,,,
+Paradise,Mixed,pre,2007,13,,n/A,,,,
+Sand,Mixed,pre,2007,3,,N/A,,,,
+Eastern,Mixed,pre,2008,43,27,16,0.210526316,0.789473684,76,60
+Holei 1,Mono,pre,2008,13,0,13,0.866666667,0.133333333,15,2
+Kaula,Mono,pre,2008,0,0,0,,,,
+Papala,Mono,pre,2008,65,22,43,0.826923077,0.173076923,52,9
+Paradise,Mixed,pre,2008,11,1,10,0.769230769,0.230769231,13,3
+Sand,Mixed,pre,2008,1,0,1,0.333333333,0.666666667,3,2
+Eastern,Mixed,pre,2009,27,2,25,0.581395349,0.418604651,43,18
+Kaula,Mono,pre,2009,5,3,2,,,,
+Paradise,Mixed,pre,2009,20,2,18,,,,
+Eastern,Mixed,pre,2010,40,32,8,0.296296296,0.703703704,27,19
+Holei 1,Mono,pre,2010,15,3,12,0.923076923,0.076923077,13,1
+Papala,Mono,pre,2010,88,24,64,0.984615385,0.015384615,65,1
+Paradise,Mixed,pre,2010,17,6,11,0.55,0.45,20,9
+Sand,Mixed,pre,2010,1,1,0,0,1,1,1
+Eastern,Mixed,post,2015,98,,n/A,,,,
+Holei 1,Mono,post,2015,577,,N/A,,,,
+Kaula,Mono,post,2015,792,,N/A,,,,
+Papala,Mono,post,2015,624,,N/A,,,,
+Paradise,Mixed,post,2015,407,,N/A,,,,
+Sand,Mixed,post,2015,110,,N/A,,,,
+Eastern,Mixed,post,2016,148,68,43,0.43877551,0.56122449,98,55
+Holei 1,Mono,post,2016,621,243,378,0.655112652,0.344887348,577,199
+Kaula,Mono,post,2016,760,310,450,0.568181818,0.431818182,792,342
+Papala,Mono,post,2016,755,321,434,0.695512821,0.304487179,624,190
+Paradise,Mixed,post,2016,431,238,193,0.474201474,0.525798526,407,214
+Sand,Mixed,post,2016,101,71,30,0.272727273,0.727272727,110,80
+Eastern,Mixed,post,2017,107,33,74,0.5,0.5,148,74
+Holei 1,Mono,post,2017,586,55,531,0.855072464,0.144927536,621,90
+Kaula,Mono,post,2017,875,115,760,1,0,760,0
+Papala,Mono,post,2017,616,71,545,0.721854305,0.278145695,755,210
+Paradise,Mixed,post,2017,414,78,336,0.779582367,0.220417633,431,95
+Sand,Mixed,post,2017,N/A,67,,,,,

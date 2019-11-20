@@ -1,0 +1,52 @@
+Plot,Type,Rats,Year,CN_Count,PF_Count,PG_Count
+Eastern,Mixed,pre,2007,76,7,0
+Holei 1,Mono,pre,2007,15,7,0
+Kaula,Mono,pre,2007,0,0,0
+Papala,Mono,pre,2007,52,0,0
+Paradise,Mixed,pre,2007,13,4,1
+Sand,Mixed,pre,2007,3,0,5
+Holei 2,Mixed,pre,2007,16,102,3
+Eastern,Mixed,pre,2008,43,3,18
+Holei 1,Mono,pre,2008,13,8,0
+Kaula,Mono,pre,2008,0,0,0
+Papala,Mono,pre,2008,65,0,0
+Paradise,Mixed,pre,2008,11,4,1
+Sand,Mixed,pre,2008,1,0,10
+Holei 2,Mixed,pre,2008,16,140,6
+Eastern,Mixed,pre,2009,27,3,17
+Kaula,Mono,pre,2009,5,0,0
+Paradise,Mixed,pre,2009,20,4,2
+Holei 2,Mixed,pre,2009,3,70,22
+Eastern,Mixed,pre,2010,40,2,22
+Holei 1,Mono,pre,2010,15,4,0
+Papala,Mono,pre,2010,88,0,0
+Paradise,Mixed,pre,2010,17,4,1
+Sand,Mixed,pre,2010,1,0,11
+Holei 2,Mixed,pre,2010,1,24,6
+Eastern,Mixed,post,2014,89,3,3
+Holei 1,Mono,post,2014,710,0,0
+Kaula,Mono,post,2014,1060,0,0
+Papala,Mono,post,2014,655,0,0
+Paradise,Mixed,post,2014,390,4,0
+Sand,Mixed,post,2014,49,0,0
+Eastern,Mixed,post,2015,98,0,0
+Holei 1,Mono,post,2015,577,0,0
+Kaula,Mono,post,2015,792,0,0
+Papala,Mono,post,2015,624,0,0
+Paradise,Mixed,post,2015,407,0,0
+Sand,Mixed,post,2015,110,0,0
+Holei 2,Mixed,post,2015,0,488,0
+Eastern,Mixed,post,2016,148,2,38
+Holei 1,Mono,post,2016,621,0,0
+Kaula,Mono,post,2016,760,0,0
+Papala,Mono,post,2016,755,0,0
+Paradise,Mixed,post,2016,431,0,2
+Sand,Mixed,post,2016,101,0,10
+Holei 2,Mixed,post,2016,46,818,0
+Eastern,Mixed,post,2017,107,N/A,N/A
+Holei 1,Mono,post,2017,586,N/A,N/A
+Kaula,Mono,post,2017,875,N/A,N/A
+Papala,Mono,post,2017,616,N/A,N/A
+Paradise,Mixed,post,2017,414,N/A,N/A
+Sand,Mixed,post,2017,N/A,N/A,N/A
+Holei 2,Mixed,post,2017,13,N/A,N/A
